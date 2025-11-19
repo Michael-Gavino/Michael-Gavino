@@ -84,16 +84,6 @@ Mi enfoque principal es crear sistemas **eficientes, escalables y con impacto re
 ### 🧪 **Simulaciones en Wokwi para IoT**
 - Validación de conexiones para sensores ambientales  
 - Implementación modular y pruebas de hardware virtual  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MichaelGavino&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelGavino&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🐍 Actividad del perfil
