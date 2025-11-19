@@ -81,11 +81,6 @@ Mi enfoque principal es crear sistemas **eficientes, escalables y con impacto re
 - Sincronización entre varias computadoras  
 - Procedimientos almacenados y control de estado del juego  
 
-### 📦 **Modelo de predicción del Índice de Calidad del Aire (AQI)**
-- Regresión polinomial y Ridge  
-- Gráficos, predicción y análisis comparativo  
-- Jupyter, Pandas, Matplotlib  
-
 ### 🧪 **Simulaciones en Wokwi para IoT**
 - Validación de conexiones para sensores ambientales  
 - Implementación modular y pruebas de hardware virtual  
