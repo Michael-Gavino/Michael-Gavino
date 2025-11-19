@@ -1,5 +1,3 @@
-<h1 align="center">Hola 👋, soy Michael Gavino Isidro</h1>
-<!-- Banner superior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:42a5f5&height=200&section=header&text=Michael%20Gavino%20Isidro&fontSize=45&fontColor=ffffff" />
 </p>
@@ -57,7 +55,7 @@ Mi enfoque principal es crear sistemas **eficientes, escalables y con impacto re
 
 <!-- IoT / Hardware -->
 <a href="https://arduino.cc" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/></a>
+</a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/></a>
 
 <!-- Desarrollo Frontend -->
