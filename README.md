@@ -81,10 +81,10 @@ Mi enfoque principal es crear sistemas **eficientes, escalables y con impacto re
 - Sincronización entre varias computadoras  
 - Procedimientos almacenados y control de estado del juego  
 
-### 🧪 **Simulaciones en Wokwi para IoT**
+<!-- ### 🧪 **Simulaciones en Wokwi para IoT**
 - Validación de conexiones para sensores ambientales  
 - Implementación modular y pruebas de hardware virtual  
----
+--- -->
 
 ## 🐍 Actividad del perfil
 
