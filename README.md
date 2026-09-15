@@ -23,7 +23,7 @@ Desarrollo proyectos orientados a:
 
 Mi enfoque principal es crear sistemas **eficientes, escalables y con impacto real**.
 
-
+ <!-- --- -->
 <!-- ## 📫 Contáctame -->
 
 <!-- - ✉️ **michael.gavino@upch.pe** -->
