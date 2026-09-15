@@ -25,11 +25,11 @@ Mi enfoque principal es crear sistemas **eficientes, escalables y con impacto re
 
 ---
 
-## 📫 Contáctame
+<!-- ## 📫 Contáctame -->
 
-- ✉️ **michael.gavino@upch.pe**
-- 💼 **LinkedIn:** https://linkedin.com/in/michael.gavino.isidro  
-- 📊 **Kaggle:** https://kaggle.com/michael_gavino
+<!-- - ✉️ **michael.gavino@upch.pe** -->
+<!-- - 💼 **LinkedIn:** https://linkedin.com/in/michael.gavino.isidro  -->
+<!--  - 📊 **Kaggle:** https://kaggle.com/michael_gavino -->
 
 ---
 
